@@ -1,0 +1,6 @@
+#ignorando arquivos
+*.class
+*.jar
+
+#ignorando pastas
+bin/
