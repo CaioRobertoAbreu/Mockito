@@ -11,6 +11,7 @@ public class Pagamento {
 		this.valor = valor;
 		this.data = data;
 	}
+
 	public double getValor() {
 		return valor;
 	}
